@@ -14,8 +14,6 @@ https://insights.stackoverflow.com/survey
 
 ### Inferences and Conclusions
 
-I've drawn many inferences from the survey. Here are some of them:
-
 - Based on the survey respondents' demographics, we can infer that the survey is somewhat representative of the overall programming community. However, it has fewer responses from programmers in non-English-speaking countries and women and non-binary genders.
 
 
