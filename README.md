@@ -1,5 +1,7 @@
 # Analyzing Stack Overflow Survey
 
+<img src="Stack_Overflow-Logo.png" width="300" height="200">
+
 In this project, I will analyze the Stack Overflow developer survey dataset. The dataset contains responses to an annual survey conducted by Stack Overflow. 
 
 I will be using the following files:
